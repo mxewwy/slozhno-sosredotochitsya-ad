@@ -1,5 +1,1 @@
-# Сложно сосредоточиться
-
-Адаптивная проектная работа Яндекс Практикума: светлая, тёмная и автоматическая темы.
-
-Репозиторий проекта: https://github.com/mxewwy/slozhno-sosredotochitsya-ad
+https://github.com/mxewwy/slozhno-sosredotochitsya-ad
